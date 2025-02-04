@@ -5,7 +5,7 @@ Welcome to my GitHub repository for the Data Analyst Bootcamp by Alex The Analys
 ## Overview
 
 ### Python:
-• Python Fundamentals – Understanding variables, data types (strings, integers, floats, booleans), and operators.
+• **Python Fundamentals** – Understanding variables, data types (strings, integers, floats, booleans), and operators.
 • Control Flow & Logic – Mastering if-else statements, loops (for & while), and logical conditions to automate decision-making.
 • Functions & Error Handling – Writing reusable code with functions and handling errors efficiently using try-except.
 • Data Structures – Working with lists, tuples, and dictionaries to manage and manipulate data.
