@@ -14,8 +14,7 @@ This learning was focusesed on web scraping using Python's BeautifulSoup and Req
 - BeautifulSoup: Extracts data from webpages
 - Requests: Fetches webpage content
 
-## Project Details
-### Web Scraping Steps
+## Web Scraping Steps
 1. Sent an HTTP GET request to the target webpage using the requests library.
 2. Parsed the webpage's HTML content using BeautifulSoup.
 3. Extracted specific elements from the webpage, including:
