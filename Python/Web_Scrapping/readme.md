@@ -23,9 +23,3 @@ This learning was focusesed on web scraping using Python's BeautifulSoup and Req
 6. All p tags with class lead.
 7. Text content from specific p and th elements.
 8. Used .text.strip() to clean extracted text for readability.
-
-## Future Improvements
-- Automating data extraction for dynamic websites
-- Saving extracted data into structured formats like CSV or JSON
-- Expanding scraping logic
-
