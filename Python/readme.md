@@ -9,13 +9,15 @@
 
 
 ## Projects Overview
-1. **Data Analysis with Pandas: Sales Data Exploration**
+1. **Data Analysis with Pandas**
 Conducted an exploratory data analysis on a sales dataset to uncover insights into sales trends, regional performance, and product popularity.
 **Key Learnings:**
      - **Pandas Library:** Mastered the use of Pandas for data manipulation, including loading datasets, handling missing values, and filtering data.
      - **Data Aggregation:** Employed grouping and aggregation methods to summarize data and extract meaningful statistics.
      - **Data Visualization:** Created visual representations of data using Pandas' built-in plotting capabilities to     identify patterns and trends.
-   - **Files:** [`sales_data_analysis.ipynb`](./sales_data_analysis.ipynb)
+   - **Files:**
+     A. [Exploratory-Data-Analysis](https://github.com/Amisha-777/Data-Analyst-Boot-Camp/blob/main/Python/pandas/Exploratory%20Data%20Analysis%20in%20Pandas.ipynb)
+     B. 
   
 2. **BMI Calculator**
 Developed a Body Mass Index (BMI) calculator that takes user input for weight and height, computes the BMI, and provides health status based on the calculated value.
